@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -45,51 +46,51 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PancakeSortTest">
-    <configuration name="PancakeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PancakeOrder">
+    <configuration name="PancakeOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
+      <option name="MAIN_CLASS_NAME" value="PancakeOrder" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PancakeSortTest.flipTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PancakeOrder.findMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
-      <option name="METHOD_NAME" value="flipTest1" />
+      <option name="MAIN_CLASS_NAME" value="PancakeOrder" />
+      <option name="METHOD_NAME" value="findMaxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PancakeSortTest.flipTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PancakeOrder.findMaxTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
-      <option name="METHOD_NAME" value="flipTest4" />
+      <option name="MAIN_CLASS_NAME" value="PancakeOrder" />
+      <option name="METHOD_NAME" value="findMaxTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PancakeSortTest.sort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PancakeOrder.findMax_ReturnsCorrectIndexOfLargestPancake_ArrayIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
-      <option name="METHOD_NAME" value="sort" />
+      <option name="MAIN_CLASS_NAME" value="PancakeOrder" />
+      <option name="METHOD_NAME" value="findMax_ReturnsCorrectIndexOfLargestPancake_ArrayIsEmpty" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PancakeSortTest.test_Flip" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PancakeSortTest.findMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
-      <option name="METHOD_NAME" value="test_Flip" />
+      <option name="METHOD_NAME" value="findMaxTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PancakeSortTest" />
-        <item itemvalue="JUnit.PancakeSortTest.flipTest1" />
-        <item itemvalue="JUnit.PancakeSortTest.flipTest4" />
-        <item itemvalue="JUnit.PancakeSortTest.test_Flip" />
-        <item itemvalue="JUnit.PancakeSortTest.sort" />
+        <item itemvalue="JUnit.PancakeOrder" />
+        <item itemvalue="JUnit.PancakeOrder.findMax_ReturnsCorrectIndexOfLargestPancake_ArrayIsEmpty" />
+        <item itemvalue="JUnit.PancakeOrder.findMaxTest" />
+        <item itemvalue="JUnit.PancakeOrder.findMaxTest2" />
+        <item itemvalue="JUnit.PancakeSortTest.findMaxTest" />
       </list>
     </recent_temporary>
   </component>
@@ -117,7 +118,8 @@
       <workItem from="1675878512946" duration="1328000" />
       <workItem from="1675885393336" duration="706000" />
       <workItem from="1675888494256" duration="521000" />
-      <workItem from="1676048788992" duration="2899000" />
+      <workItem from="1676048788992" duration="3193000" />
+      <workItem from="1676055691221" duration="4613000" />
     </task>
     <servers />
   </component>
