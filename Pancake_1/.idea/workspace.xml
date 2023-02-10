@@ -45,19 +45,32 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PancakeSortTest.test_Flip">
-    <configuration name="PancakeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PancakeSort" />
-      <module name="Pancake_1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.PancakeSortTest">
     <configuration name="PancakeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PancakeSortTest.flipTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pancake_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
+      <option name="METHOD_NAME" value="flipTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PancakeSortTest.flipTest4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pancake_1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
+      <option name="METHOD_NAME" value="flipTest4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -84,10 +97,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PancakeSortTest" />
+        <item itemvalue="JUnit.PancakeSortTest.flipTest1" />
+        <item itemvalue="JUnit.PancakeSortTest.flipTest4" />
         <item itemvalue="JUnit.PancakeSortTest.test_Flip" />
         <item itemvalue="JUnit.PancakeSortTest.sort" />
-        <item itemvalue="JUnit.PancakeSortTest" />
-        <item itemvalue="Application.PancakeSort" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +116,8 @@
       <workItem from="1675877648670" duration="61000" />
       <workItem from="1675878512946" duration="1328000" />
       <workItem from="1675885393336" duration="706000" />
-      <workItem from="1675888494256" duration="473000" />
+      <workItem from="1675888494256" duration="521000" />
+      <workItem from="1676048788992" duration="2899000" />
     </task>
     <servers />
   </component>
