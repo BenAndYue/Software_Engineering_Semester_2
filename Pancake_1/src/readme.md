@@ -1,15 +1,31 @@
-The chef in our place is sloppy, and when he prepares a stack of pancakes they come
-out all different sizes. Therefore, when I deliver them to a customer, on the way to the
-table I rearrange them (so that the smallest winds up on top, and so on, down to the
-largest at the bottom) by grabbing several from the top and flipping them over,
-repeating this (varying the number I flip) as many times as necessary.
-(https://doi.org/10.1016/0012-365X(79)90068-2)
-
-More context: The process is as follows, there is a chef who bakes pancakes and puts the
-pancakes on a plate. The plate always contains minimum 1 pancake and maximum 25
-pancakes. All the pancakes have different diameters, so no pancake have the same size.
-Afterwards the plate goes to the assistant cook who sorts the pancakes by size: the smallest
-pancake is on top and the largest pancake is at the bottom. The assistant cook is only
-allowed to sort the pancakes by flipping the stack of pancakes using a spatula (any other
-method comes at the expense of taste...)
-
+## Student Information
+First Name: Ngoc Ben
+Last Name: Nguyen
+Student number: Replace‐this‐with‐your‐student‐number
+## Assignment
+### 1. Git log
+```
+Place here the results of the following command: git log ‐‐pretty=format:"%hx
+%ad%x09%s" ‐‐date=short`
+```
+### 2. Sonarqube
+A dated screenshot of the overview of the following quality
+gates(https://docs.sonarqube.org/latest/user‐guide/quality‐gates/):
+Reliability, Security,Maintainability, Coverage and Duplications. Provide a
+short discussion of the results.
+![](/replace‐this‐with‐path‐to‐your‐png‐file/dated‐screenshot‐sonarqube‐quality
+gates.png)
+### 3. Test Driven Development
+Your best test class code snippets with a rationale why the unit tests are
+“good” tests. Provide a link to the Test class and the class under test in
+Git.
+```java
+Add your code snippets here.
+```
+[link‐to‐your‐class‐under‐test](/somerepo/path‐to‐file)
+[link‐to‐your‐test‐class](/somerepo/path‐to‐file)
+### 4. Code Reviews
+Screenshots of the code reviews you have performed on code of another student
+as comments in Gitlab: Provide a link to the comments in Gitlab.
+![](/replace‐this‐with‐path‐to‐your‐png‐file/screenshot‐code‐reviews.png)
+[link‐to‐comments‐you‐gave](/somerepo/path‐to‐file)

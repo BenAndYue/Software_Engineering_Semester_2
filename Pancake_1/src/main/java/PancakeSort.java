@@ -16,9 +16,9 @@ public class PancakeSort {
         System.out.println(Arrays.toString(pancakes));
     }
 
-    private static void sort(int[] pancakes) {
-    }
+    public static void sort(int[] pancakes) {
 
+    }
 
     //    finding the max
     static int findMax(int[] pancakes, int end) {
