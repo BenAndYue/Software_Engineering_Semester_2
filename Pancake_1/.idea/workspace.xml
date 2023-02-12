@@ -46,7 +46,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PancakeOrder">
+  <component name="RunManager" selected="JUnit.PancakeSortMainTest">
     <configuration name="PancakeOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
@@ -86,23 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PancakeSortTest.findMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PancakeSortMainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Pancake_1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PancakeSortTest" />
-      <option name="METHOD_NAME" value="findMaxTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="PancakeSortMainTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PancakeSortMainTest" />
         <item itemvalue="JUnit.PancakeOrder" />
         <item itemvalue="JUnit.PancakeOrder.findMax_ReturnsCorrectIndexOfLargestPancake_ArrayIsEmpty" />
         <item itemvalue="JUnit.PancakeOrder.findMaxTest" />
         <item itemvalue="JUnit.PancakeOrder.findMaxTest2" />
-        <item itemvalue="JUnit.PancakeSortTest.findMaxTest" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +119,7 @@
       <workItem from="1675888494256" duration="521000" />
       <workItem from="1676048788992" duration="3193000" />
       <workItem from="1676055691221" duration="4755000" />
-      <workItem from="1676156339221" duration="1636000" />
+      <workItem from="1676156339221" duration="3603000" />
     </task>
     <servers />
   </component>
