@@ -17,7 +17,15 @@ public class PancakeSort {
     }
 
     public static void sort(int[] pancakes) {
+//        TODO check list size
 
+        for (int i = pancakes.length - 1; i >= 1; i--) {
+            int maxIndex = findMax(pancakes, i);
+            if (maxIndex != i) {
+                flip(pancakes, maxIndex);
+                flip(pancakes, i);
+            }
+        }
     }
 
     //    finding the max
